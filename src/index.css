@@ -1,0 +1,15 @@
+.media,button.btn.btn-primary {
+  cursor: pointer;
+}
+
+.media:hover {
+  box-shadow: 2px 2px 5px #000;
+}
+
+.input-group {
+  padding: 20px 0;
+}
+.row--center-align{
+  justify-content: center;
+  margin-top: 20px;
+}
